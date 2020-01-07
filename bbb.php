@@ -64,7 +64,7 @@ body {
     </script>
 </body>
       <div>
-      <form action="indexx.php" >
+      <form action="index.php" >
         <tr>
             <td><button class="btn btn-primary" name="anasayfa">Anasayfaya Dön</button>
         <tr>
